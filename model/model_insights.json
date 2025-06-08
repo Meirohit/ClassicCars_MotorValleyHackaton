@@ -1,0 +1,27 @@
+{
+  "ferrarienzo": {
+    "avg_change": "+$12,300",
+    "top_feature": "Engagement rate",
+    "top_sentiment": "Pros"
+  },
+  "ferrarif40": {
+    "avg_change": "+$8,900",
+    "top_feature": "like_per_view",
+    "top_sentiment": "Neutral"
+  },
+  "fordgt40": {
+    "avg_change": "-$2,100",
+    "top_feature": "Video views",
+    "top_sentiment": "Sarcasm"
+  },
+  "lamborghinilm002": {
+    "avg_change": "+$15,200",
+    "top_feature": "comment_per_view",
+    "top_sentiment": "Pros"
+  },
+  "mclarenf1": {
+    "avg_change": "-$9,800",
+    "top_feature": "Share count",
+    "top_sentiment": "Cons"
+  }
+}

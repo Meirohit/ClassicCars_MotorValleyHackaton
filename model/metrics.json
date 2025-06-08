@@ -1,0 +1,10 @@
+{
+  "r2_score": 0.67,
+  "mae": 5345,
+  "top_positive": ["Engagement rate", "like_per_view"],
+  "top_negative": ["Video views", "Share count"],
+  "feature_coefficients": {
+    "Video views": -0.24,
+    "Engagement rate": 0.18
+  }
+}
